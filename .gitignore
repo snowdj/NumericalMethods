@@ -1,0 +1,12 @@
+*.aux
+*.log
+*.out
+*.toc
+*/_build/*.ipynb
+*/_build/*.pdf
+*/_build/*.py
+*/_build/*.tplx
+*/_build/figs
+Notes/tex/CourseNotes*pdf
+*/.ipynb_checkpoints
+Lectures/tex/*pdf
